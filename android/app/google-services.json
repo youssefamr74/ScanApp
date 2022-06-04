@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769433707715",
+    "project_id": "scanapp-d8c85",
+    "storage_bucket": "scanapp-d8c85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769433707715:android:d2b2c7b768998d4ee9ee76",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769433707715-6g64eu6smbllqu3qmuovgj5fcmbt2qf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD83WIBsrM3zi8gXcn7fDrcivhIbw6kDgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769433707715-6g64eu6smbllqu3qmuovgj5fcmbt2qf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
